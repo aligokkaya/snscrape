@@ -1,1 +1,1 @@
-# snscrape
+# snscrabe
